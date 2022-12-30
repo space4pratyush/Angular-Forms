@@ -1,0 +1,8 @@
+class------------------->Properties
+ng-untouched------------>untouched
+ng-touched-------------->touched
+ng-pristine------------->pristine
+ng-dirty---------------->dirty   
+ng-invalid-------------->invalid
+ng-valid---------------->valid
+
